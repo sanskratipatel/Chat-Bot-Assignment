@@ -28,7 +28,7 @@ The Wine Business Chatbot is a web-based chatbot application designed to assist 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/wine-business-chatbot.git
+    git clone https://github.com/sanskratipatel/Chat-Bot-Assignment.git
     ```
 
 2. Navigate to the project directory:
