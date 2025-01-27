@@ -1,7 +1,7 @@
 # Wine Business AIChatbot
 
 The Wine Business Chatbot is a web-based chatbot application designed to assist users with inquiries related to wine business. The chatbot is built using Flask for the backend and a simple HTML/CSS interface for the frontend.
-cfdcfc
+
 ## Features
 
 - User-friendly chat interface.
@@ -74,6 +74,5 @@ cfdcfc
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to suggest improvements or report bugs.
-
 
 
